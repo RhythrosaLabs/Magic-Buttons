@@ -1,2 +1,2 @@
 # Magic-Buttons
-Make a game by literally clicking one button.
+Make magic with a prompt and a click.
